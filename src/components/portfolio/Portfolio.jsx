@@ -17,7 +17,7 @@ const Portfolio = () => {
       img: IMG1,
       description:
         'Internal company portal is a streamlined hub for employees, offering interactive dashboards for real-time metrics and secure daily logins tailored to individual roles, enhancing collaboration and informed decision-making.',
-      technologies: 'React.js | HTML | SCSS | Prime React',
+      technologies: 'Next.js | React.js | HTML | SCSS | Prime React',
       link: 'https://github.com/G-SF/projetoPortal',
     },
     {
